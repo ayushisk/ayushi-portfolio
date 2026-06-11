@@ -297,3 +297,54 @@ export const projects = [
     webapp: "https://safarwanderlust.com/",
   }
 ];
+
+export const certifications = [
+  {
+    id: 1,
+    title: "Certified Information Technology Specialist",
+    issuer: "CertNexus",
+    date: "2025",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5WgMmT3-SSyES01ceF_bbaxLh-hgGvc8jQ&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrbYFsB0vFggzJ69RQPCujVNAuw22ftXCew&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6A7mR-Y5xL_X9z7N-Y0a1n7z3E_QzX8Q6pA&s", // Replace with actual logo
+    desc: "Achieved professional certification in IT fundamentals and specialized tech stacks.",
+  },
+  {
+    id: 2,
+    title: "Data Science Workshop",
+    issuer: "IIT Roorkee",
+    date: "2025",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvuynxo1rRFlcxIz18uTF3eDcxLv9bHv1qA&shttps://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Roorkee_logo.svg/1200px-Indian_Institute_of_Technology_Roorkee_logo.svg.png",
+    desc: "Intensive workshop covering data analysis, machine learning algorithms, and statistical modeling.",
+  },
+  {
+    id: 3,
+    title: "Cyber Ethics Certification ",
+    issuer: "ISEA Project Phase 2 - MeitY",
+    date: "2025",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa25HMj21iaqWq46IQ8qRyCFnjGyq_AxvMBw&shttps://www.isea.gov.in/images/isea-logo.png",
+    desc: "National level awareness program conducted by the Ministry of Electronics and IT.",
+  },
+  {
+    id: 4,
+    title: "C Language Certification",
+    issuer: "Spoken Tutorial Project, IIT Bombay",
+    date: "2024",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMKnR_iBEKKMOJgstgRi_BJXpDQ_MUePXmg&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtrQrv5W8qWuNVWlV9ylYVXBQsC3NVQ2qkQ&shttps://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
+    desc: "Certified in C programming fundamentals and advanced memory management concepts.",
+  },
+  {
+    id: 5,
+    title: "JavaScript Language Certification",
+    issuer: "Spoken Tutorial Project, IIT Bombay",
+    date: "2024",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMKnR_iBEKKMOJgstgRi_BJXpDQ_MUePXmg&shttps://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
+    desc: "In-depth training on ES6+, DOM manipulation, and asynchronous JavaScript development.",
+  },
+  {
+    id: 6,
+    title: "NDG Linux Unhatched Certification",
+    issuer: "Cisco Networking Academy",
+    date: "2024",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rmmqPD3jbrdXZwB_aWV1j6cKkO2MBywHmQ&shttps://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png",
+    desc: "Foundational knowledge in Linux command line, system configuration, and security.",
+  },
+];
